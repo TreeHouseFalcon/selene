@@ -2,6 +2,6 @@
 - id: selene
   name: Selene (cargo)
   description: Run Selene linting
-  entry: selene
+  entry: selene .
   language: script
   types: [lua]
