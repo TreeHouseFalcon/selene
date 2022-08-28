@@ -4,5 +4,4 @@
   description: Run Selene linting
   entry: selene
   language: script
-  types:
-    - lua
+  types: [lua]
