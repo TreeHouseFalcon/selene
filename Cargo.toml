@@ -1,6 +1,4 @@
-[workspace]
 
-members = [
-	"selene",
-    "selene-lib",
-]
+[dependencies]
+selene = { path = "selene/" }
+selene-lib = { path = "selene-lib/" }
