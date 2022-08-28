@@ -4,5 +4,6 @@
   description: Run Selene linting
   entry: selene
   language: rust
+  args: ["--manifest-path", "selene/Cargo.toml"]
   types:
     - lua
