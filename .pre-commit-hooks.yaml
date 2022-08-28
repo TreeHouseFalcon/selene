@@ -1,0 +1,8 @@
+---
+- id: selene
+  name: Selene (cargo)
+  description: Run Selene linting
+  entry: selene
+  language: rust
+  types:
+    - lua
