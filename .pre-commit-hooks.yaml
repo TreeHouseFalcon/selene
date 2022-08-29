@@ -3,5 +3,5 @@
   name: Selene (cargo)
   description: Run Selene linting
   entry: cargo build && ./target/debug/selene.exe "$1"
-  language: system
+  language: script
   always_run: true
