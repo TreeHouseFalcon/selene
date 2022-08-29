@@ -1,2 +1,2 @@
 echo "hello"
-PAUSE
+read -p "press key"
