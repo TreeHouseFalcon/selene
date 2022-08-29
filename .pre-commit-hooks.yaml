@@ -2,6 +2,6 @@
 - id: selene
   name: Selene (cargo)
   description: Run Selene linting
-  entry: pre-commit-run.sh
+  entry: pre-commit-run.bat
   language: script
   always_run: true
