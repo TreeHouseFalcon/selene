@@ -2,6 +2,6 @@
 - id: selene
   name: Selene (cargo)
   description: Run Selene linting
-  entry: selene
+  entry: selene/selene
   language: rust
   always_run: true

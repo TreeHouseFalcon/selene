@@ -4,8 +4,3 @@ members = [
 	"selene",
     "selene-lib",
 ]
-
-[[bin]]
-name = "selene"
-path = "src/main.rs"
-bench = false
