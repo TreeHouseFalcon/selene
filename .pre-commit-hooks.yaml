@@ -4,5 +4,3 @@
   description: Run Selene linting
   entry: target/debug/selene.exe .
   language: script
-  types:
-    - lua
