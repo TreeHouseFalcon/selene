@@ -1,3 +1,3 @@
 echo "hello"
-cargo build
 sleep 2
+cargo build
