@@ -4,3 +4,4 @@
   description: Run Selene linting
   entry: target/debug/selene.exe .
   language: script
+  always_run: true
