@@ -2,6 +2,6 @@
 - id: selene
   name: Selene (cargo)
   description: Run Selene linting
-  entry: cargo run -p selene -- test-lua
+  entry: cargo run -p selene -- .
   language: system
   always_run: true
