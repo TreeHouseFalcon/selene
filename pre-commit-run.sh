@@ -1,3 +1,3 @@
 echo "hello"
 cargo build
-./target/debug/selene.exe
+./target/debug/selene.exe test-lua
