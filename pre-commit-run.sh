@@ -1,2 +1,2 @@
 echo "hello"
-pause
+cargo build
