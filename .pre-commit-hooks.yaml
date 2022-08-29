@@ -4,4 +4,5 @@
   description: Run Selene linting
   entry: sh pre-commit-run.sh
   language: system
-  always_run: true
+  types:
+    - lua
