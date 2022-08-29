@@ -1,2 +1,2 @@
 cargo build
-./target/debug/selene.exe test-lua
+./target/debug/selene.exe "$1"

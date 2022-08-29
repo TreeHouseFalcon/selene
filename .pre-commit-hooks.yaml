@@ -2,6 +2,6 @@
 - id: selene
   name: Selene (cargo)
   description: Run Selene linting
-  entry: sh pre-commit-run.sh
+  entry: sh pre-commit-run.sh test-lua
   language: system
-  types: [lua]
+  always_run: true
