@@ -2,7 +2,7 @@
 - id: selene
   name: Selene (cargo)
   description: Run Selene linting
-  entry: target/debug/selene.exe
+  entry: target/debug/selene.exe .
   language: script
   types:
     - lua
